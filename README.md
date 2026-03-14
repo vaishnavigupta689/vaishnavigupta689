@@ -26,9 +26,9 @@ Generates a snake game from a github user contributions graph
 </picture>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayushpersonal&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ayushpersonal&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpersonal&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=vaishnavigupta689l&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vaishnavigupta689&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavigupta689&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🏆 GitHub Trophies
