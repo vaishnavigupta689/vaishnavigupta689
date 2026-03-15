@@ -4,7 +4,10 @@ Hey, I'm Vaishnavi Gupta<br><img src="https://user-images.githubusercontent.com/
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)] <div align="left"> <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100"></div>
+<div align="left">
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="120"><br><br>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a></div>
 
 
 # 💻 Tech Stack
@@ -18,9 +21,10 @@ Hey, I'm Vaishnavi Gupta<br><img src="https://user-images.githubusercontent.com/
 <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 </div>
-
-Generates a snake game from a github user contributions graph
-
+<br>
+<p align="Left">
+✨ Watch my contributions turn into a snake 🐍
+</p>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -36,7 +40,11 @@ Generates a snake game from a github user contributions graph
   />
 </picture>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vaishnavigupta689&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vaishnavigupta689&theme=highcontrast&hide_border=false)<br/>
-
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vaishnavigupta689&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavigupta689&layout=compact&theme=radical&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavigupta689&theme=radical&hide_border=true"/>
+</p>
