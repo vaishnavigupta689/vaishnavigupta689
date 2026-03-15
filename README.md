@@ -1,7 +1,7 @@
 # 💫 About Me:
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
-Hey, I'm Vaishnavi Gupta<br><br>🚀 Web Developer | UI/UX Designer <br><br>💡 I build modern web apps using HTML, CSS, JS, React, Tailwind<br>🎨 Design clean interfaces with Figma & Canva<br>🧠 Work with Python, MATLAB, C, and AI model training & fine-tuning<br>
-<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
+Hey, I'm Vaishnavi Gupta<br><img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500"><br>🚀 Web Developer | UI/UX Designer <br><br>💡 I build modern web apps using HTML, CSS, JS, React, Tailwind<br>🎨 Design clean interfaces with Figma & Canva<br>🧠 Work with Python, MATLAB, C, and AI model training & fine-tuning<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)] 
