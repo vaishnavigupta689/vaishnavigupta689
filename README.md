@@ -1,6 +1,6 @@
 # 💫 About Me:
 About Me:<br>👋 Hey, I'm Vaishnavi Gupta<br> <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
-<br>🚀 Web Developer | UI/UX Designer | AI Engineer | Graphic Designer<br><br>💡 I build modern web apps using HTML, CSS, JS, React, Tailwind<br>🎨 Design clean interfaces with Figma & Canva<br>🧠 Work with Python, MATLAB, C, and AI model training & fine-tuning<br>⚙️ Skilled in Prompt Engineering & creative automation<br><br>📫 Code. Create. Innovate.
+<br>🚀 Web Developer | UI/UX Designer <br><br>💡 I build modern web apps using HTML, CSS, JS, React, Tailwind<br>🎨 Design clean interfaces with Figma & Canva<br>🧠 Work with Python, MATLAB, C, and AI model training & fine-tuning<br>
 
 
 ## 🌐 Socials:
