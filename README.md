@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me:<br>👋 Hey, I'm Vaishnavi Gupta<img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="160" /><br> <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
+About Me:<br>👋 Hey, I'm Vaishnavi Gupta<br> <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
 <br>🚀 Web Developer | UI/UX Designer <br><br>💡 I build modern web apps using HTML, CSS, JS, React, Tailwind<br>🎨 Design clean interfaces with Figma & Canva<br>🧠 Work with Python, MATLAB, C, and AI model training & fine-tuning<br>
 
 
@@ -29,6 +29,4 @@ Generates a snake game from a github user contributions graph
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vaishnavigupta689&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vaishnavigupta689&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavigupta689&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="400">
